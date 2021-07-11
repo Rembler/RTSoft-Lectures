@@ -1,0 +1,2 @@
+SUBSYSTEM=="block", ACTION=="add", ENV{DEVTYPE}=="disk", ATTRS{serial}=="000AEB91BC94A920557001AE", RUN+="/usr/bin/device_added.sh"
+
