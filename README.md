@@ -46,7 +46,7 @@ $ sudo ./start.sh
 $ ./producer.sh
 ```
 
-### Task 4.2 - opencv trahectory drawer + mqtt + kafka + influxdb + grafana
+## Task 4.2 - opencv trahectory drawer + mqtt + kafka + influxdb + grafana
 Start executing the programs in the following order:
 ```
 $ python3 kafka_to_influxdb.py
